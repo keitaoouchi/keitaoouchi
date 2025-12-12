@@ -3,10 +3,10 @@
 - 我叫大内慶太。Tokyo based software engineer focusing on web and mobile application.
 - To make the world a more peaceful place and make you smile, I write massive legacy code every day, 本当にすいません 😙
 
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=keitaoouchi&show_icons=true&count_private=true&theme=bear&hide_border=true" />
-</div>
-
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keitaoouchi&theme=bear&hide_border=true">
-</div>
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keitaoouchi&theme=github_dark" />
+</p>
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=keitaoouchi&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=keitaoouchi&theme=github_dark" />
+</p>
